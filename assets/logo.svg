@@ -1,0 +1,30 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Uni Advisor logo</title>
+  <desc id="desc">Round emblem with an owl wearing a graduation cap and the text Uni Advisor Study Smarter.</desc>
+  <defs>
+    <linearGradient id="wing" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#e0e7ff" />
+      <stop offset="100%" stop-color="#cbd5ff" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="120" fill="#0f172a" />
+  <circle cx="300" cy="280" r="210" fill="#f8fafc" />
+  <path d="M140 300c60-80 120-140 160-140s100 60 160 140" fill="url(#wing)" stroke="#0f172a" stroke-width="12" stroke-linecap="round" />
+  <path d="M300 210c-58 0-105 47-105 105s47 105 105 105 105-47 105-105S358 210 300 210Z" fill="#f43f5e" stroke="#0f172a" stroke-width="12" />
+  <path d="M260 245c-32 14-52 56-52 90 0 34 12 62 32 84 16-20 25-46 25-74 0-36-9-71-5-100Z" fill="#f9739a" />
+  <path d="M340 245c32 14 52 56 52 90 0 34-12 62-32 84-16-20-25-46-25-74 0-36 9-71 5-100Z" fill="#f9739a" />
+  <circle cx="260" cy="300" r="26" fill="#fff" stroke="#0f172a" stroke-width="10" />
+  <circle cx="340" cy="300" r="26" fill="#fff" stroke="#0f172a" stroke-width="10" />
+  <circle cx="260" cy="300" r="12" fill="#0f172a" />
+  <circle cx="340" cy="300" r="12" fill="#0f172a" />
+  <path d="M285 330c9 10 21 10 30 0" stroke="#0f172a" stroke-width="10" stroke-linecap="round" />
+  <path d="M240 240 300 220l60 20" fill="none" stroke="#0f172a" stroke-width="12" stroke-linecap="round" />
+  <path d="M280 215h40v40h-40z" fill="#0f172a" />
+  <path d="M300 215v60" stroke="#eab308" stroke-width="6" stroke-linecap="round" />
+  <circle cx="300" cy="275" r="10" fill="#eab308" />
+  <path d="M140 300c-6 0-10 4-10 10s4 10 10 10h20c6 0 10-4 10-10s-4-10-10-10h-20Z" fill="#0f172a" opacity="0.8" />
+  <path d="M440 300c-6 0-10 4-10 10s4 10 10 10h20c6 0 10-4 10-10s-4-10-10-10h-20Z" fill="#0f172a" opacity="0.8" />
+  <text x="300" y="470" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="48" fill="#f8fafc" letter-spacing="4">UNI ADVISOR</text>
+  <text x="300" y="515" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-weight="500" font-size="26" fill="#e2e8f0" letter-spacing="3">STUDY SMARTER.</text>
+  <text x="300" y="130" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="24" fill="#e2e8f0" letter-spacing="5">SINCE 2024</text>
+</svg>
