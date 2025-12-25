@@ -67,6 +67,8 @@ img { max-width: 100%; display: block; }
 .flag-card .dot{ width:8px; height:8px; background:#1d4ed8; border-radius:999px; display:inline-block; }
 
 .contact-card{ background:#fff; border:1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 14px; }
+.contact-block + .contact-block{ margin-top: 12px; padding-top: 12px; border-top:1px solid var(--line); }
+.contact-heading{ font-weight: 700; margin-bottom: 6px; color:#0f172a; }
 .form{ background:#fff; border:1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 16px; display:grid; gap: 12px; }
 .form label{ font-size: 14px; color:#0f172a; display:grid; gap:6px; }
 .form input, .form textarea{ padding:12px 14px; border:1px solid var(--line); border-radius: 12px; font-size:14px; }
